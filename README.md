@@ -6,7 +6,8 @@
 Predict mobile phone price ranges with high accuracy using Support Vector Machines (SVM). This project aims to assist mobile companies in estimating the price range of their phones based on various features like RAM and internal memory, providing valuable insights for competitive pricing strategies.
 
 ## Dataset
-The dataset used in this project is available on Kaggle. You can find it here. The dataset includes essential information about mobile phones, making it a valuable resource for training and evaluating the machine learning models.
+The dataset used in this project is available on Kaggle. You can find it  https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data .
+The dataset includes essential information about mobile phones, making it a valuable resource for training and evaluating the machine learning models.
 
 ## Accuracy
 Achieved an impressive 97% accuracy using SVM, demonstrating the effectiveness of the model in classifying mobile phone price ranges.
